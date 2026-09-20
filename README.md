@@ -12,7 +12,6 @@
 
 <p align="center">
   Based in <strong>Depok, Indonesia</strong> 🇮🇩<br />
-  Turning ideas into applications with thoughtful interfaces and solid backends.
 </p>
 
 <p align="center">
@@ -37,7 +36,7 @@ I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Informati
 
 <br />
 
-Tech stack
+*Tech stack*
 
 <table>
 <tr>
