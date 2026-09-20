@@ -3,7 +3,7 @@
 <!-- This README uses GitHub-compatible HTML. Animated images are hosted externally. -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:BE185D,45:EA580C,75:D97706,100:0D9488&amp;height=230&amp;section=header&amp;text=RAAFI%20DEWANTO&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Raafi Dewanto — Full Stack Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:BE185D,45:EA580C,75:D97706,100:0D9488&amp;height=230&amp;section=header&amp;text=MUHAMAD%20RAAFI%20DEWANTO&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Raafi Dewanto — Full Stack Developer" />
 </p>
 
 <p align="center">
