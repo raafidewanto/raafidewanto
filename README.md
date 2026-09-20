@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=From+interface+to+API.;JavaScript+%26+TypeScript+Developer;Building+for+the+web+and+mobile.;Always+learning.+Always+building." alt="From interface to API. Fullstack Developer. Building for the web and mobile." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=From+interface+to+API.;JavaScript+%26+TypeScript+Developer;Building+for+the+web+and+mobile.;Always+learning.+Always+building." alt="Fullstack Developer. From interface to API. Building for the web and mobile." />
 </p>
 
 <p align="center">
