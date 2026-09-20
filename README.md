@@ -13,7 +13,7 @@
 
 ### About me
 
-I'm **Muhamad Raafi Dewanto**, a developer based in **Jakarta, Indonesia**. I hold a bachelor's degree in Information Systems from Gunadarma University and completed Hacktiv8's Full Stack JavaScript bootcamp.
+I'm **Muhamad Raafi Dewanto**, a developer based in **Depok, Indonesia**. I hold a bachelor's degree in Information Systems from Gunadarma University and completed Hacktiv8's Full Stack JavaScript bootcamp.
 
 - **My focus:** full stack development with React, Next.js, Node.js, and NestJS.
 - **What I've built:** blood donation, e-commerce, social media, and task management applications.
