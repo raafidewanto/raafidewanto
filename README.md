@@ -2,15 +2,15 @@
 <!-- This README uses GitHub-compatible HTML. Animated images are hosted externally. -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:4338CA,100:06B6D4&amp;height=230&amp;section=header&amp;text=RAAFI%20DEWANTO&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Raafi Dewanto — Full Stack Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,45:4338CA,100:06B6D4&amp;height=230&amp;section=header&amp;text=RAAFI%20DEWANTO&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Muhamad Raafi Dewanto" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=From+interface+to+API.;JavaScript+%26+TypeScript+Developer;Building+for+the+web+and+mobile.;Always+learning.+Always+building." alt="From interface to API. JavaScript and TypeScript developer. Building for the web and mobile." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=6366F1&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=From+interface+to+API.;JavaScript+%26+TypeScript+Developer;Building+for+the+web+and+mobile.;Always+learning.+Always+building." alt="From interface to API. Fullstack Developer. Building for the web and mobile." />
 </p>
 
 <p align="center">
-  Based in <strong>Jakarta, Indonesia</strong> 🇮🇩<br />
+  Based in <strong>Depok, Indonesia</strong> 🇮🇩<br />
   Turning ideas into applications with thoughtful interfaces and solid backends.
 </p>
 
@@ -29,7 +29,7 @@ I'm **Muhamad Raafi Dewanto**, an Information Systems graduate from **Gunadarma 
 
 ```ts
 const raafi = {
-  location: "Jakarta, Indonesia",
+  location: "Depok, Indonesia",
   focus: ["Full Stack Development", "Backend Development"],
   languages: ["JavaScript", "TypeScript"],
   building: ["Web apps", "Mobile apps", "REST & GraphQL APIs"],
