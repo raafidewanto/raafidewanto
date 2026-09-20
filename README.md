@@ -191,19 +191,19 @@ I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Informati
 
 <p align="center">
   <a href="https://github.com/raafidewanto">
-    <img width="580" src="https://github-stats-alpha.vercel.app/api?username=raafidewanto&amp;cc=171C28&amp;tc=FDBA74&amp;ic=6EE7B7&amp;bc=F97316" alt="Raafi Dewanto's GitHub profile and statistics" />
+    <img width="420" src="https://github-stats-alpha.vercel.app/api?username=raafidewanto&amp;cc=171C28&amp;tc=FDBA74&amp;ic=6EE7B7&amp;bc=F97316" alt="Raafi Dewanto's GitHub profile and statistics" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/raafidewanto?tab=overview">
-    <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raafidewanto&amp;name=Raafi%20Dewanto&amp;theme=github_dark&amp;bg_color=171C28&amp;title_color=FDBA74&amp;text_color=E2E8F0&amp;icon_color=6EE7B7&amp;chart_color=FB7185&amp;border_color=171C28" alt="Raafi's GitHub contribution history and profile summary" />
+    <img width="75%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raafidewanto&amp;name=Raafi%20Dewanto&amp;theme=github_dark&amp;bg_color=171C28&amp;title_color=FDBA74&amp;text_color=E2E8F0&amp;icon_color=6EE7B7&amp;chart_color=FB7185&amp;border_color=171C28" alt="Raafi's GitHub contribution history and profile summary" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/raafidewanto?tab=overview">
-    <img width="720" src="https://streak-stats.demolab.com/?user=raafidewanto&amp;hide_border=true&amp;border_radius=12&amp;background=171C28&amp;stroke=374151&amp;ring=F97316&amp;fire=FBBF24&amp;currStreakNum=FBBF24&amp;sideNums=FDBA74&amp;currStreakLabel=6EE7B7&amp;sideLabels=6EE7B7&amp;dates=CBD5E1" alt="Raafi's total contributions, current streak, and longest streak" />
+    <img width="500" src="https://streak-stats.demolab.com/?user=raafidewanto&amp;hide_border=true&amp;border_radius=12&amp;background=171C28&amp;stroke=374151&amp;ring=F97316&amp;fire=FBBF24&amp;currStreakNum=FBBF24&amp;sideNums=FDBA74&amp;currStreakLabel=6EE7B7&amp;sideLabels=6EE7B7&amp;dates=CBD5E1" alt="Raafi's total contributions, current streak, and longest streak" />
   </a>
 </p>
 
