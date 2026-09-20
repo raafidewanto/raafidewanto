@@ -3,15 +3,15 @@
 <!-- This README uses GitHub-compatible HTML. Animated images are hosted externally. -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:BE185D,45:EA580C,75:D97706,100:0D9488&amp;height=230&amp;section=header&amp;text=RAAFI%20DEWANTO&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;desc=FULL%20STACK%20DEVELOPER&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Raafi Dewanto — Full Stack Developer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:BE185D,45:EA580C,75:D97706,100:0D9488&amp;height=230&amp;section=header&amp;text=RAAFI%20DEWANTO&amp;fontSize=46&amp;fontColor=FFFFFF&amp;fontAlignY=38&amp;descSize=16&amp;descAlignY=58&amp;animation=fadeIn" alt="Raafi Dewanto — Full Stack Developer" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=From+interface+to+API.;JavaScript+%26+TypeScript+Developer;Building+for+the+web+and+mobile.;Always+learning.+Always+building." alt="From interface to API. JavaScript and TypeScript developer. Building for the web and mobile." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=3000&amp;pause=1000&amp;color=F97316&amp;center=true&amp;vCenter=true&amp;width=650&amp;height=45&amp;lines=Fullstack+Developer;From+interface+to+API.;Building+for+the+web+and+mobile.;Always+learning.+Always+building." alt="From interface to API. JavaScript and TypeScript developer. Building for the web and mobile." />
 </p>
 
 <p align="center">
-  Based in <strong>Jakarta, Indonesia</strong> 🇮🇩<br />
+  Based in <strong>Depok, Indonesia</strong> 🇮🇩<br />
   Turning ideas into applications with thoughtful interfaces and solid backends.
 </p>
 
@@ -29,7 +29,7 @@
 
 <br />
 
-About me
+*About me*
 
 I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Information Systems graduate from Gunadarma University, and a Hacktiv8 Full Stack JavaScript graduate. I build web and mobile applications with JavaScript, TypeScript, React, Next.js, React Native, and Node.js, including APIs, authentication, database integration, and real-time features.
 
@@ -68,7 +68,7 @@ Tech stack
 
 <br />
 
-Featured projects
+*Featured projects*
 
 <p>From a blood donation platform to AI-powered task management — here's a selection of what I've built.</p>
 
@@ -186,7 +186,7 @@ Featured projects
 
 <br />
 
-GitHub Analytics
+*GitHub Analytics*
 
 <!-- Live cards use this account's data; no contribution counts are hard-coded. -->
 
@@ -212,7 +212,7 @@ GitHub Analytics
 
 <br />
 
-Connect With Me
+*Connect With Me*
 
 <p align="center">Let's connect and talk about web development, mobile apps, and opportunities to build together.</p>
 
