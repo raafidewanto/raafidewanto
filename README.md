@@ -28,7 +28,7 @@
 
 <br />
 
-*About me*
+**About me**
 
 I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Information Systems graduate from Gunadarma University, and a Hacktiv8 Full Stack JavaScript graduate. I build web and mobile applications with JavaScript, TypeScript, React, Next.js, React Native, and Node.js, including APIs, authentication, database integration, and real-time features.
 
@@ -36,7 +36,7 @@ I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Informati
 
 <br />
 
-*Tech stack*
+**Tech stack**
 
 <!-- REST API and Supertest use descriptive icons, not official brand marks. -->
 
@@ -113,7 +113,7 @@ I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Informati
 
 <br />
 
-*Featured projects*
+**Featured projects**
 
 <p>From a blood donation platform to AI-powered task management — here's a selection of what I've built.</p>
 
@@ -231,7 +231,7 @@ I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Informati
 
 <br />
 
-*GitHub Analytics*
+**GitHub Analytics**
 
 <!-- Live cards use this account's data; no contribution counts are hard-coded. -->
 
@@ -257,7 +257,7 @@ I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Informati
 
 <br />
 
-*Connect With Me*
+**Connect With Me**
 
 <p align="center">Let's connect and talk about web development, mobile apps, and opportunities to build together.</p>
 
