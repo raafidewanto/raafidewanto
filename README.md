@@ -38,29 +38,75 @@ I'm Muhamad Raafi Dewanto, a Full Stack Developer based in Jakarta, an Informati
 
 *Tech stack*
 
+<!-- REST API and Supertest use descriptive icons, not official brand marks. -->
+
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>🎨 Frontend & mobile</h3>
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&amp;perline=5" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
-<p>React Native · Expo · HTML · CSS · Bootstrap</p>
+<h3>💻 Languages & markup</h3>
+<p>
+<img src="https://img.shields.io/badge/JavaScript-B45309?style=for-the-badge&amp;logo=javascript&amp;logoColor=white" alt="JavaScript" title="JavaScript" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" title="TypeScript" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" alt="HTML5" title="HTML5" />
+<img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&amp;logo=css&amp;logoColor=white" alt="CSS" title="CSS" />
+</p>
 </td>
 <td width="50%" valign="top">
-<h3>⚙️ Backend & APIs</h3>
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,graphql&amp;perline=4" alt="Node.js, Express, NestJS, GraphQL" />
-<p>REST APIs · Apollo · Socket.IO · JWT</p>
+<h3>🎨 Frontend & mobile</h3>
+<p>
+<img src="https://img.shields.io/badge/React-087EA4?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React" title="React" />
+<img src="https://img.shields.io/badge/Next.js-171C28?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" title="Next.js" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-0F766E?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" title="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white" alt="Bootstrap" title="Bootstrap" />
+<img src="https://img.shields.io/badge/React%20Native-087EA4?style=for-the-badge&amp;logo=react&amp;logoColor=white" alt="React Native" title="React Native" />
+<img src="https://img.shields.io/badge/Expo-171C28?style=for-the-badge&amp;logo=expo&amp;logoColor=white" alt="Expo" title="Expo" />
+<img src="https://img.shields.io/badge/EJS-8D6748?style=for-the-badge&amp;logo=ejs&amp;logoColor=white" alt="EJS" title="EJS" />
+</p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>🗃️ Databases & caching</h3>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sequelize&amp;perline=4" alt="PostgreSQL, MongoDB, Redis, Sequelize" />
-<p>Relational data · Document data · Caching</p>
+<h3>⚙️ Backend & APIs</h3>
+<p>
+<img src="https://img.shields.io/badge/Node.js-417E38?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" title="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-374151?style=for-the-badge&amp;logo=express&amp;logoColor=white" alt="Express.js" title="Express.js" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&amp;logo=nestjs&amp;logoColor=white" alt="NestJS" title="NestJS" />
+<img src="https://img.shields.io/badge/REST%20API-0F766E?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTggNSAyIDEybDYgN204LTE0IDYgNy02IDdNMTQgM2wtNCAxOCIvPjwvc3ZnPg%3D%3D&amp;logoColor=white" alt="REST API" title="REST API" />
+<img src="https://img.shields.io/badge/GraphQL-C02687?style=for-the-badge&amp;logo=graphql&amp;logoColor=white" alt="GraphQL" title="GraphQL" />
+<img src="https://img.shields.io/badge/Apollo%20Client-311C87?style=for-the-badge&amp;logo=apollographql&amp;logoColor=white" alt="Apollo Client" title="Apollo Client" />
+<img src="https://img.shields.io/badge/Socket.IO-171C28?style=for-the-badge&amp;logo=socketdotio&amp;logoColor=white" alt="Socket.IO" title="Socket.IO" />
+<img src="https://img.shields.io/badge/JWT-BE185D?style=for-the-badge&amp;logo=jsonwebtokens&amp;logoColor=white" alt="JWT" title="JWT" />
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&amp;logo=axios&amp;logoColor=white" alt="Axios" title="Axios" />
+</p>
 </td>
 <td width="50%" valign="top">
-<h3>🛠️ Tools & testing</h3>
-<img src="https://skillicons.dev/icons?i=git,github,jest,vercel&amp;perline=4" alt="Git, GitHub, Jest, Vercel" />
-<p>Supertest · Zod · API testing</p>
+<h3>🗃️ Databases & caching</h3>
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" title="PostgreSQL" />
+<img src="https://img.shields.io/badge/MongoDB-166534?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" alt="MongoDB" title="MongoDB" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" title="Redis" />
+<img src="https://img.shields.io/badge/Sequelize-2379BD?style=for-the-badge&amp;logo=sequelize&amp;logoColor=white" alt="Sequelize" title="Sequelize" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3>🧪 Testing & validation</h3>
+<p>
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&amp;logo=jest&amp;logoColor=white" alt="Jest" title="Jest" />
+<img src="https://img.shields.io/badge/Supertest-0F766E?style=for-the-badge&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCI%2BPHBhdGggZD0iTTkgM2g2bS01IDB2N0w0IDIwaDE2bC02LTEwVjNNOCAxNWg4Ii8%2BPC9zdmc%2B&amp;logoColor=white" alt="Supertest" title="Supertest" />
+<img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&amp;logo=zod&amp;logoColor=white" alt="Zod" title="Zod" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3>🛠️ Tools & integrations</h3>
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" title="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" title="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-171C28?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" title="Vercel" />
+<img src="https://img.shields.io/badge/Google%20OAuth-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google OAuth" title="Google OAuth" />
+<img src="https://img.shields.io/badge/Gemini%20API-886FBF?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini API" title="Gemini API" />
+</p>
 </td>
 </tr>
 </table>
