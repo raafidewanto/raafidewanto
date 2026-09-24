@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Based in <strong>Depok, Indonesia</strong> 🇮🇩<br />
+  <strong>Depok, Indonesia</strong> 🇮🇩<br />
 </p>
 
 <p align="center">
